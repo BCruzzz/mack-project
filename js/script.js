@@ -1,3 +1,5 @@
+// Aplicação versão 1.0.0 31/03/2024
+
 document.getElementById("loginForm").addEventListener("submit", function(event) {
     event.preventDefault(); // Impede o envio do formulário
 
